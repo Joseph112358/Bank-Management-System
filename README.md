@@ -16,4 +16,9 @@
     <li> </li>
 </ul>
 
+<h2> immediate TODO's </h2>
+<ul>
+    <li> Set up make file </li>
+    <li> Add gitIgnore </li>
+</ul>
 
