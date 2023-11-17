@@ -2,7 +2,6 @@
 #include <string>
 #include "userInterface.h"
 
-// Main menu
 int main() {
   showMainMenu();
   int input;

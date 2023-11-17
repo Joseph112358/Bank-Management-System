@@ -18,7 +18,7 @@
 
 <h2> immediate TODO's </h2>
 <ul>
-    <li> Set up make file </li>
+     <li> Fix make clean behaviour as no rm in windows </li>
     <li> Add gitIgnore </li>
 </ul>
 
