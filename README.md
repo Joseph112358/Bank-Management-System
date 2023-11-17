@@ -7,7 +7,7 @@
 
 <h2>Existing functionality</h2>
 
-Goals / MVP
+<h2>Goals / MVP </h2>
 <ul>
     <li> User's should be able to create and close a bank account </li>
     <li> User's should be able to deposit and withdraw funds </li>
